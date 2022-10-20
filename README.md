@@ -1,4 +1,4 @@
-# Responsive-Ecommerce-Website
+# Responsive-Ecommerce-Website ` Open-Market`
 Front-end and Back-end for an e-commerce clothes selling website.
 ## About
 1- It is a responsive webpage containing nice animations. <br />
@@ -9,5 +9,36 @@ Front-end and Back-end for an e-commerce clothes selling website.
 5- A nice Cart Page.
 
 ## Tech-Stack
-`HTML, CSS, JS, PHP`
+`HTML, CSS, JS, PHP, MySQL`
 ## Screenshots
+
+`Homepage`
+---
+<img src="/images/Capture.PNG1.PNG" width = "100%">
+<img src="/images/Capture.PNG2.PNG" width = "100%">
+<img src="/images/Capture.PNG3.PNG" width = "100%">
+
+`Login`
+---
+<img src="/images/Capture.PNG4.PNG" width = "100%">
+
+`Registration`
+---
+<img src="/images/Capture.PNG5.PNG" width = "100%">
+
+`About US`
+---
+<img src="/images/Capture.PNG6.PNG" width = "100%">
+
+`Profile`
+---
+<img src="/images/Capture.PNG7.PNG" width = "100%">
+
+`Shopping Cart`
+---
+<img src="/images/Capture.PNG8.PNG" width = "100%">
+
+`Wishlist`
+---
+<img src="/images/Capture.PNG10.PNG" width = "100%">
+
